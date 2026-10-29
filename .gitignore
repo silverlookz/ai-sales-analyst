@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+output/
+data/*.db
+data/*.duckdb
+data/*.duckdb.wal
+data/raw/
+transform/target/
+transform/logs/
+transform/dbt_packages/
+transform/.user.yml
+logs/
